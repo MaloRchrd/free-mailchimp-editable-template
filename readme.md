@@ -36,6 +36,7 @@ The navigation menu doesn't diplay well on mailchimp visual editor
 But works perfectly in the mail client 👌
 
 ![nav startup](https://i.imgur.com/pE8enAh.png)
+![nav mobile](https://i.imgur.com/7NaIGBj.png)
 
 
 ## License
@@ -45,3 +46,11 @@ But works perfectly in the mail client 👌
 
 
 ![WTFPL](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WTFPL_logo.svg/280px-WTFPL_logo.svg.png)
+
+## Suggestions & Bugs reporting 
+
+[Twiter](https://twitter.com/Malo_Richard)  
+[Portfolio](https://malorchrd.github.io/MaloRchrd/)  
+
+
+
