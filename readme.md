@@ -2,7 +2,12 @@
 
 ## why  ? 
 
-Playing around  [MJML](http://mjml.io)  and [Mailchimp](http://mailchimp.com)
+Playing around responsive email clients compatibility 
+
+** Tools **
+
+* [MJML](http://mjml.io)  
+* [Mailchimp](http://mailchimp.com)
 
 ## screenshot
 
@@ -11,9 +16,9 @@ Playing around  [MJML](http://mjml.io)  and [Mailchimp](http://mailchimp.com)
 ![Screenshot](https://i.imgur.com/6RfVxqr.png)
 
 More comming soon 
-* Startup services 
-* Product showcase
-* Product Promo 
+* 🚀Startup services 
+* 🛍Product showcase
+* 🎁Product Promo 
 * ...
 
 ## how to use it 
@@ -26,7 +31,7 @@ Then edit desin and you're all set
 
 ## License
 
-[wtfpl](http://www.wtfpl.net/)
+[Wtfpl](http://www.wtfpl.net/)
 
 
 
