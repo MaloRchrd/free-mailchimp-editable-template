@@ -6,11 +6,11 @@ Playing around  [MJML](http://mjml.io)  and [Mailchimp](http://mailchimp.com)
 
 ## screenshot
 
-###Newsletter template 
+*Newsletter template* 
 
 ![Screenshot](https://i.imgur.com/6RfVxqr.png)
 
-more comming soon 
+More comming soon 
 * Startup services 
 * Product showcase
 * Product Promo 
@@ -22,7 +22,7 @@ to use it just copy and past the raw file into mailchimp
 
 Login > template > create template > [Import HTML](https://us10.admin.mailchimp.com/templates/create-template/)
 
-Then edit desin and your all set
+Then edit desin and you're all set
 
 ## License
 
