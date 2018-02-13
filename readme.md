@@ -15,6 +15,8 @@ Playing around responsive email clients compatibility
 
 ![Newsletter](https://i.imgur.com/6RfVxqr.png)
 
+*Startup services* 
+
 ![Startup services](https://i.imgur.com/czdNYYe.png)
 
 More comming soon : 
@@ -29,6 +31,11 @@ to use it just copy and past the raw file into mailchimp
 Login > template > create template > [Import HTML](https://us10.admin.mailchimp.com/templates/create-template/)
 
 Then edit desin and you're all set
+
+## Features
+
+* Custom content and images
+* Custom tabs for background and button colors (startup services only)
 
 ## NB ⚠️
 
