@@ -36,7 +36,7 @@ The navigation menu doesn't diplay well on mailchimp visual editor
 But works perfectly in the mail client 👌
 
 ![nav startup](https://i.imgur.com/pE8enAh.png)
-![nav mobile](https://i.imgur.com/7NaIGBj.png =300x527)
+![nav mobile](https://i.imgur.com/7NaIGBj.png =300)
 
 
 ## License
