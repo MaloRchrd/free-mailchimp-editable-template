@@ -4,7 +4,7 @@
 
 Playing around responsive email clients compatibility 
 
-** Tools **
+**Tools**
 
 * [MJML](http://mjml.io)  
 * [Mailchimp](http://mailchimp.com)
@@ -13,10 +13,11 @@ Playing around responsive email clients compatibility
 
 *Newsletter template* 
 
-![Screenshot](https://i.imgur.com/6RfVxqr.png)
+![Newsletter](https://i.imgur.com/6RfVxqr.png)
 
-More comming soon 
-* 🚀Startup services 
+![Startup services](https://i.imgur.com/czdNYYe.png)
+
+More comming soon : 
 * 🛍Product showcase
 * 🎁Product Promo 
 * ...
@@ -28,6 +29,14 @@ to use it just copy and past the raw file into mailchimp
 Login > template > create template > [Import HTML](https://us10.admin.mailchimp.com/templates/create-template/)
 
 Then edit desin and you're all set
+
+## NB ⚠️
+
+The navigation menu doesn't diplay well on mailchimp visual editor 
+But works perfectly in the mail client 👌
+
+![nav startup](https://i.imgur.com/pE8enAh.png)
+
 
 ## License
 
